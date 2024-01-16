@@ -1,0 +1,12 @@
+Step 1st:
+
+Download all the files (html,css & java) and keep all the file in a seprate folder.
+
+
+Step 2nd:
+
+Open the created folder with Vscode editor.
+
+Step 3rd:
+
+Start the live server of the Vscode if you have not install live sever then you can easly install that from Vscode Extension section and then run the live server and you will be able to see output.
